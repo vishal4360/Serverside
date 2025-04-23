@@ -140,10 +140,10 @@ def rightcylinder(request):
 ```
 
 ## SERVER SIDE PROCESSING:
-
+![alt text](image-2.png)
 
 ## HOMEPAGE:
-
+![alt text](image.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
